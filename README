@@ -1,0 +1,5 @@
+Various versions of a conflict-free string generator, as presented in progintro TA class (February 2012).
+
+Author: Nick Korasidis
+
+Problem: Given an integer d, where 1 <= d <= 26, output a maximal conflict-free string, using only d distinct lowercase latin letters.
